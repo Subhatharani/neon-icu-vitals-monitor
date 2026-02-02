@@ -25,45 +25,21 @@ The project is designed for **healthcare system prototyping, hackathons, and aca
 ## 0.2 Table of Contents
 
 Vital Simulator and Outlier Detection  
-0. Preface  
-0.1 Updates  
-0.2 Table of Contents  
-0.3 File Structure  
-1. Problem Definition  
-2. System Architecture  
-3. Vital Simulation Module  
-4. Patient Baseline Modeling  
-5. Outlier Detection Logic  
-6. Alert Generation  
-7. Dashboard Integration  
-8. Experimental Validation  
-9. Applications  
-10. Limitations  
-11. Future Work  
-12. License  
+      0. Preface  
+      0.1 Updates  
+      0.2 Table of Contents   
+      1. Problem Definition  
+      2. System Architecture  
+      3. Vital Simulation Module  
+      4. Patient Baseline Modeling  
+      5. Outlier Detection Logic  
+      6. Alert Generation  
+      7. Dashboard Integration  
+      8. Experimental Validation  
+      9. Applications  
+      10. Limitations  
+      11. Future Work  
 
-
-
-0.3 File Structure
-
-VITAL_MONITOR/
-├── dashboard/
-│   └── dashboard.py
-├── server/
-│   └── server.py
-├── vital_simulation/
-│   ├── profiles.py
-│   └── simulation.py
-├── cleaned_dataset.csv
-├── cleaned_dataset_train.csv
-├── human_vital_signs_dataset_2024.csv
-├── preprocess.ipynb
-├── train.ipynb
-├── rf_model.pkl
-├── xgb_model.pkl
-├── scaler.pkl
-├── server.py
-├── README.md
 
 
 1. Problem Definition
